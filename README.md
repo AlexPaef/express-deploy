@@ -84,6 +84,12 @@ module.exports = function Layout({ children }) {
 
 7. Deploy to render.com
 
+# Branch
+main
+
+# Root Directory
+src
+
 # Build Command
 npm install && npx sequelize db:migrate
 

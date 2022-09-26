@@ -87,9 +87,6 @@ module.exports = function Layout({ children }) {
 # Branch
 main
 
-# Root Directory
-src
-
 # Build Command
 npm install && npx sequelize db:migrate
 
